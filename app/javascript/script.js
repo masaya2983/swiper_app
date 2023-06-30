@@ -1,4 +1,4 @@
-let title = "javascriptが使えましや";
+let title = "javascriptが使えました";
 alert(title);
 $(document).ready(function () {
   $('.jquery').on('click', function(){
